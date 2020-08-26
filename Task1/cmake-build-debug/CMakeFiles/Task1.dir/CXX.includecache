@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/D0D83B08D83AEBFA/repos/Data-Structures/Task1/CircularSingleLinkedList.h
+string
+-
+
+/mnt/D0D83B08D83AEBFA/repos/Data-Structures/Task1/main.cpp
+iostream
+-
+CircularSingleLinkedList.h
+/mnt/D0D83B08D83AEBFA/repos/Data-Structures/Task1/CircularSingleLinkedList.h
+stdio.h
+-
+dirent.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+

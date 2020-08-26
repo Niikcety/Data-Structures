@@ -1,0 +1,3 @@
+/mnt/D0D83B08D83AEBFA/repos/Data-Structures/Task1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/D0D83B08D83AEBFA/repos/Data-Structures/Task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/D0D83B08D83AEBFA/repos/Data-Structures/Task1/cmake-build-debug/CMakeFiles/Task1.dir
