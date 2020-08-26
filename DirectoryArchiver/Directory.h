@@ -10,6 +10,7 @@
 
 class Directory {
 public:
+    Directory();
     Directory(const std::string &name, const std::string &parentPath);
 
     const std::string &getName() const;
@@ -20,6 +21,7 @@ public:
 
     void setParentPath(const std::string &parentPath);
 
+    static int isDirectory(const char* directoryPath);
 private:
     std::string name;
     std::string parentPath;

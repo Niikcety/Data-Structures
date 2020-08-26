@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/D0D83B08D83AEBFA/repos/Data-Structures/DirectoryArchiver/Directory.cpp
+sys/stat.h
+-
+Directory.h
+/mnt/D0D83B08D83AEBFA/repos/Data-Structures/DirectoryArchiver/Directory.h
+
+/mnt/D0D83B08D83AEBFA/repos/Data-Structures/DirectoryArchiver/Directory.h
+string
+-
+
