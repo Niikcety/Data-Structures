@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Archiver"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="G:/repos/Data-Structures/Archiver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="G:/repos/Data-Structures/Archiver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Archiver">
+				<Option output="G:/repos/Data-Structures/Archiver/cmake-build-debug/Archiver.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/repos/Data-Structures/Archiver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/ProgramFiles/8.6.3/mingw/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../include/c++/7.2.0"/>
+					<Add directory="H:/ProgramFiles/8.6.3/mingw/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../include/c++/7.2.0/x86_64-w64-mingw32"/>
+					<Add directory="H:/ProgramFiles/8.6.3/mingw/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../include/c++/7.2.0/backward"/>
+					<Add directory="H:/ProgramFiles/8.6.3/mingw/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include"/>
+					<Add directory="H:/ProgramFiles/8.6.3/mingw/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../include"/>
+					<Add directory="H:/ProgramFiles/8.6.3/mingw/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include-fixed"/>
+					<Add directory="H:/ProgramFiles/8.6.3/mingw/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="H://ProgramFiles//8.6.3//mingw//bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include"/>
+					<Add directory="H://ProgramFiles//8.6.3//mingw//bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 Archiver"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Archiver/fast">
+				<Option output="G:/repos/Data-Structures/Archiver/cmake-build-debug/Archiver.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/repos/Data-Structures/Archiver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/ProgramFiles/8.6.3/mingw/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../include/c++/7.2.0"/>
+					<Add directory="H:/ProgramFiles/8.6.3/mingw/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../include/c++/7.2.0/x86_64-w64-mingw32"/>
+					<Add directory="H:/ProgramFiles/8.6.3/mingw/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../include/c++/7.2.0/backward"/>
+					<Add directory="H:/ProgramFiles/8.6.3/mingw/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include"/>
+					<Add directory="H:/ProgramFiles/8.6.3/mingw/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../include"/>
+					<Add directory="H:/ProgramFiles/8.6.3/mingw/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include-fixed"/>
+					<Add directory="H:/ProgramFiles/8.6.3/mingw/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="H://ProgramFiles//8.6.3//mingw//bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include"/>
+					<Add directory="H://ProgramFiles//8.6.3//mingw//bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 Archiver/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="G:/repos/Data-Structures/Archiver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;G:/repos/Data-Structures/Archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="G:/repos/Data-Structures/Archiver/Directory.cpp">
+			<Option target="Archiver"/>
+		</Unit>
+		<Unit filename="G:/repos/Data-Structures/Archiver/Directory.h">
+			<Option target="Archiver"/>
+		</Unit>
+		<Unit filename="G:/repos/Data-Structures/Archiver/File.cpp">
+			<Option target="Archiver"/>
+		</Unit>
+		<Unit filename="G:/repos/Data-Structures/Archiver/File.h">
+			<Option target="Archiver"/>
+		</Unit>
+		<Unit filename="G:/repos/Data-Structures/Archiver/main.cpp">
+			<Option target="Archiver"/>
+		</Unit>
+		<Unit filename="G:/repos/Data-Structures/Archiver/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

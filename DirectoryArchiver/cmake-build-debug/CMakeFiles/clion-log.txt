@@ -1,4 +1,0 @@
-/home/nikkie/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6494.38/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/D0D83B08D83AEBFA/repos/Data-Structures/DirectoryArchiver
--- Configuring done
--- Generating done
--- Build files have been written to: /mnt/D0D83B08D83AEBFA/repos/Data-Structures/DirectoryArchiver/cmake-build-debug

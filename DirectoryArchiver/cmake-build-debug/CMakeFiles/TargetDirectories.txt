@@ -1,3 +1,0 @@
-/mnt/D0D83B08D83AEBFA/repos/Data-Structures/DirectoryArchiver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/D0D83B08D83AEBFA/repos/Data-Structures/DirectoryArchiver/cmake-build-debug/CMakeFiles/DirectoryArchiver.dir
-/mnt/D0D83B08D83AEBFA/repos/Data-Structures/DirectoryArchiver/cmake-build-debug/CMakeFiles/edit_cache.dir

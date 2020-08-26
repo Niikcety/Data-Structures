@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/repos/Data-Structures/Archiver/Directory.h
+string
+-
+
+G:/repos/Data-Structures/Archiver/File.h
+Directory.h
+G:/repos/Data-Structures/Archiver/Directory.h
+
+G:/repos/Data-Structures/Archiver/main.cpp
+iostream
+-
+Directory.h
+G:/repos/Data-Structures/Archiver/Directory.h
+File.h
+G:/repos/Data-Structures/Archiver/File.h
+

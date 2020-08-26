@@ -1,0 +1,3 @@
+G:/repos/Data-Structures/Archiver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+G:/repos/Data-Structures/Archiver/cmake-build-debug/CMakeFiles/Archiver.dir
+G:/repos/Data-Structures/Archiver/cmake-build-debug/CMakeFiles/edit_cache.dir
